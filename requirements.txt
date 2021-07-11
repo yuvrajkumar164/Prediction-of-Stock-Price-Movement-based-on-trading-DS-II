@@ -1,7 +1,7 @@
 pandas==0.24.2
 numpy==1.19.5
 streamlit
-sklearn==0.21.2
+scikit-learn==0.21.2
 seaborn
 matplot-lib
 plotly-express
