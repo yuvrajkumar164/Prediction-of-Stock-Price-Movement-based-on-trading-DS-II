@@ -104,23 +104,12 @@ if st.checkbox("Show Credits"):
 
     st.sidebar.subheader("Credits")
 
-    st.sidebar.subheader("Under Guidance of")
-    # **Guidance @ CDAC-ACTS, Pune**\n
-    st.sidebar.info(
-        """
-        1. Yasin Sir\n
-        2. Deepika\n
-        3. Team @ [Technocolab](https://www.linkedin.com/company/technocolabs/)\n
-        """)
+    
     st.sidebar.subheader("Contributors/Project Team")
     st.sidebar.info(
-        "1. [Abhishek Sharma](https://www.linkedin.com/in/abhishek-sharma-285a48205/)\n"
-        "2. [Rahul Chawla](https://www.linkedin.com/in/rahul-chawla-942b47150/)\n"
-        "3. [Anukriti Singh]( https://www.linkedin.com/mwlite/in/anukriti-singh-3b424a19b/)\n"
-        "4. [Yuvraj Kumar](https://www.linkedin.com/in/yuvraj-kumar-68164117a/)\n"
-        "5. [Swetha Srinivasan](https://www.linkedin.com/in/swethas-25072001/)\n"
-        "6. [Navya Cherian](https://www.linkedin.com/in/navya-cherian/)\n"
-        "7. [Gaurav Singh](https://www.linkedin.com/in/gaurav-singh-9b3399187/)"
+        
+        "1. [Yuvraj Kumar](https://www.linkedin.com/in/yuvraj-kumar-68164117a/)\n"
+       
     )
     st.sidebar.subheader("Project Report")
     st.sidebar.info("[Project Report](https://drive.google.com/file/d/1EaQiElehdcjD4pj4J9quqvn9MZLokmrz/view?usp=sharing)\n")
